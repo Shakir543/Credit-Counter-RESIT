@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using MyDialogs;
+using MyDialogs;   //added this class in as previously, I didn't use it.
 
 
 namespace Credit_Counter_V2._0

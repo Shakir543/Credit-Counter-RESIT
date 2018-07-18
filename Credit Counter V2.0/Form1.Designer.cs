@@ -159,11 +159,12 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(286, 34);
+            this.label1.Location = new System.Drawing.Point(259, 34);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(388, 122);
             this.label1.TabIndex = 24;
             this.label1.Text = "Click a Coin \r\nTo Buy Credits\r\n";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // pictureBox1
             // 
@@ -663,10 +664,11 @@
             // 
             this.textBox2.BackColor = System.Drawing.Color.Cornsilk;
             this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox2.Location = new System.Drawing.Point(1002, 1823);
             this.textBox2.Name = "textBox2";
             this.textBox2.ReadOnly = true;
-            this.textBox2.Size = new System.Drawing.Size(455, 31);
+            this.textBox2.Size = new System.Drawing.Size(455, 34);
             this.textBox2.TabIndex = 51;
             this.textBox2.Text = "Copyright @2018 Shakir Shabbir";
             // 

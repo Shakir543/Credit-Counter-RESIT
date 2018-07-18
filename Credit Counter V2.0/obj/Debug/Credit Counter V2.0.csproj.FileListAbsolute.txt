@@ -1,0 +1,30 @@
+C:\Users\Guest_hi23mpv\Desktop\Credit Counter V2.0\Credit Counter V2.0\bin\Debug\Credit Counter V2.0.exe.config
+C:\Users\Guest_hi23mpv\Desktop\Credit Counter V2.0\Credit Counter V2.0\bin\Debug\Credit Counter V2.0.exe
+C:\Users\Guest_hi23mpv\Desktop\Credit Counter V2.0\Credit Counter V2.0\bin\Debug\Credit Counter V2.0.pdb
+C:\Users\Guest_hi23mpv\Desktop\Credit Counter V2.0\Credit Counter V2.0\obj\Debug\Credit Counter V2.0.csprojResolveAssemblyReference.cache
+C:\Users\Guest_hi23mpv\Desktop\Credit Counter V2.0\Credit Counter V2.0\obj\Debug\Credit_Counter_V2._0.Form1.resources
+C:\Users\Guest_hi23mpv\Desktop\Credit Counter V2.0\Credit Counter V2.0\obj\Debug\Credit_Counter_V2._0.Properties.Resources.resources
+C:\Users\Guest_hi23mpv\Desktop\Credit Counter V2.0\Credit Counter V2.0\obj\Debug\Credit Counter V2.0.csproj.GenerateResource.Cache
+C:\Users\Guest_hi23mpv\Desktop\Credit Counter V2.0\Credit Counter V2.0\obj\Debug\Credit Counter V2.0.csproj.CoreCompileInputs.cache
+C:\Users\Guest_hi23mpv\Desktop\Credit Counter V2.0\Credit Counter V2.0\obj\Debug\Credit Counter V2.0.exe
+C:\Users\Guest_hi23mpv\Desktop\Credit Counter V2.0\Credit Counter V2.0\obj\Debug\Credit Counter V2.0.pdb
+C:\Users\shaki\Desktop\Credit Counter V2.0\Credit Counter V2.0\bin\Debug\Credit Counter V2.0.exe.config
+C:\Users\shaki\Desktop\Credit Counter V2.0\Credit Counter V2.0\bin\Debug\Credit Counter V2.0.exe
+C:\Users\shaki\Desktop\Credit Counter V2.0\Credit Counter V2.0\bin\Debug\Credit Counter V2.0.pdb
+C:\Users\shaki\Desktop\Credit Counter V2.0\Credit Counter V2.0\obj\Debug\Credit Counter V2.0.csprojResolveAssemblyReference.cache
+C:\Users\shaki\Desktop\Credit Counter V2.0\Credit Counter V2.0\obj\Debug\Credit_Counter_V2._0.Form1.resources
+C:\Users\shaki\Desktop\Credit Counter V2.0\Credit Counter V2.0\obj\Debug\Credit_Counter_V2._0.Properties.Resources.resources
+C:\Users\shaki\Desktop\Credit Counter V2.0\Credit Counter V2.0\obj\Debug\Credit Counter V2.0.csproj.GenerateResource.Cache
+C:\Users\shaki\Desktop\Credit Counter V2.0\Credit Counter V2.0\obj\Debug\Credit Counter V2.0.csproj.CoreCompileInputs.cache
+C:\Users\shaki\Desktop\Credit Counter V2.0\Credit Counter V2.0\obj\Debug\Credit Counter V2.0.exe
+C:\Users\shaki\Desktop\Credit Counter V2.0\Credit Counter V2.0\obj\Debug\Credit Counter V2.0.pdb
+C:\Users\shaki\Desktop\Credit Counter RESIT\Credit Counter V2.0\obj\Debug\Credit Counter V2.0.csprojResolveAssemblyReference.cache
+C:\Users\shaki\Desktop\Credit Counter RESIT\Credit Counter V2.0\obj\Debug\Credit_Counter_V2._0.Form1.resources
+C:\Users\shaki\Desktop\Credit Counter RESIT\Credit Counter V2.0\obj\Debug\Credit_Counter_V2._0.Properties.Resources.resources
+C:\Users\shaki\Desktop\Credit Counter RESIT\Credit Counter V2.0\obj\Debug\Credit Counter V2.0.csproj.GenerateResource.cache
+C:\Users\shaki\Desktop\Credit Counter RESIT\Credit Counter V2.0\obj\Debug\Credit Counter V2.0.csproj.CoreCompileInputs.cache
+C:\Users\shaki\Desktop\Credit Counter RESIT\Credit Counter V2.0\obj\Debug\Credit Counter V2.0.exe
+C:\Users\shaki\Desktop\Credit Counter RESIT\Credit Counter V2.0\obj\Debug\Credit Counter V2.0.pdb
+C:\Users\shaki\Desktop\Credit Counter RESIT\Credit Counter V2.0\bin\Debug\Credit Counter V2.0.exe.config
+C:\Users\shaki\Desktop\Credit Counter RESIT\Credit Counter V2.0\bin\Debug\Credit Counter V2.0.exe
+C:\Users\shaki\Desktop\Credit Counter RESIT\Credit Counter V2.0\bin\Debug\Credit Counter V2.0.pdb

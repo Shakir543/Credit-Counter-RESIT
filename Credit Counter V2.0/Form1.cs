@@ -14,11 +14,11 @@ namespace Credit_Counter_V2._0
 {
     public partial class Form1 : Form
     {
-        int Total_pence = 0;    //setting the variables
+        int Total_pence = 0;      //This is where the variables I use later are set.
         decimal Total_Pound = 0.00m;
-        int count_1p = 0;
-        int count_2p = 0;
-        int count_5p = 0;
+        int count_1p = 0; 
+        int count_2p = 0; 
+        int count_5p = 0; 
         int count_10p = 0;
         int count_20p = 0;
         int count_50p = 0;
@@ -297,5 +297,12 @@ namespace Credit_Counter_V2._0
         {
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
+
+// Assignment done by Shakir Shabbir

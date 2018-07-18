@@ -22,7 +22,7 @@ namespace Credit_Counter_V2._0
         int count_10p = 0;
         int count_20p = 0;
         int count_50p = 0;
-        int count_1pound = 0;
+        int count_1pound = 0; // numerical values equal 0
         int count_2pound = 0;
         int creditcost;
         int credit;

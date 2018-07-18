@@ -265,7 +265,7 @@
             // pictureBox7
             // 
             this.pictureBox7.Image = global::Credit_Counter_V2._0.Properties.Resources._2_pound;
-            this.pictureBox7.Location = new System.Drawing.Point(477, 1050);
+            this.pictureBox7.Location = new System.Drawing.Point(477, 1051);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(243, 180);
             this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -325,7 +325,7 @@
             this.groupBox3.Controls.Add(this.pictureBox10);
             this.groupBox3.Location = new System.Drawing.Point(900, 28);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(577, 1776);
+            this.groupBox3.Size = new System.Drawing.Size(557, 1766);
             this.groupBox3.TabIndex = 2;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Coins Entered";
@@ -608,7 +608,7 @@
             // button1
             // 
             this.button1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button1.Location = new System.Drawing.Point(58, 66);
+            this.button1.Location = new System.Drawing.Point(58, 53);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(442, 66);
             this.button1.TabIndex = 30;
@@ -654,7 +654,7 @@
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.Location = new System.Drawing.Point(12, 1697);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(865, 107);
+            this.button2.Size = new System.Drawing.Size(865, 97);
             this.button2.TabIndex = 6;
             this.button2.Text = "Reset";
             this.button2.UseVisualStyleBackColor = false;
@@ -665,10 +665,10 @@
             this.textBox2.BackColor = System.Drawing.Color.Cornsilk;
             this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox2.Location = new System.Drawing.Point(1002, 1823);
+            this.textBox2.Location = new System.Drawing.Point(928, 1813);
             this.textBox2.Name = "textBox2";
             this.textBox2.ReadOnly = true;
-            this.textBox2.Size = new System.Drawing.Size(455, 34);
+            this.textBox2.Size = new System.Drawing.Size(478, 34);
             this.textBox2.TabIndex = 51;
             this.textBox2.Text = "Copyright @2018 Shakir Shabbir";
             // 
@@ -678,7 +678,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.ClientSize = new System.Drawing.Size(1504, 1873);
+            this.ClientSize = new System.Drawing.Size(1492, 1858);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.groupBox5);
